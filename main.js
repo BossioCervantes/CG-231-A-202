@@ -69,9 +69,9 @@
 
     // Rotaciones
 
-    Rotacionx(piramide[0],[0,0,0], 45);
-    Rotaciony(piramide[0],[0,0,0], 45);
-    Rotacionz(piramide[0],[0,0,0], 60); 
+    Rotacionx(piramide[0],[2*lado,2*lado,0], 45);
+    Rotaciony(piramide[0],[2*lado,2*lado,0], 45);
+    Rotacionz(piramide[0],[2*lado,2*lado,0], 60); 
 
     // Escena
 
